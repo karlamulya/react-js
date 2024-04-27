@@ -1,0 +1,18 @@
+● Diffrence b/w library and framework?
+https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
+● What is CDN? Why do we use it?
+https://www.geeksforgeeks.org/what-is-a-content-distribution-network-and-how-does-it-work/
+● Why is React known as React?
+https://www.linkedin.com/pulse/ever-wondered-why-its-called-react-lets-break-down-kaustav-sarkar-tyovc
+● What is crossorigin in script?
+https://www.geeksforgeeks.org/html-script-crossorigin-attribute/
+● What is diference between React and ReactDOM?
+https://www.geeksforgeeks.org/how-react-and-reactdom-works/
+● What is difference between react.development.js and react.production.js files via CDN?
+https://www.cloudhadoop.com/react-production-development-build?expand_article=1
+https://medium.com/react-academy/development-vs-production-the-importance-of-choosing-the-right-cdn-links-d8f8efbe1e5b
+
+
+
+
+
